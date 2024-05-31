@@ -30,7 +30,7 @@ Class_selection = st.multiselect('Select Class', Class_list, ['RES', 'COM', 'TAN
 
 ## Year selection
 year_list = df.year.unique()
-year_selection = st.slider('Select year duration',2000,2024, (2022, 2024))
+year_selection = st.slider('Select year duration',2020,2024, (2022, 2024))
 year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
 
 ## month selection
