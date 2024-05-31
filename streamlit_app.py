@@ -26,7 +26,7 @@ genres_selection = st.multiselect('Select genres', genres_list, ['AS', 'JZBU', '
 
 ## Year selection
 year_list = df.year.unique()
-year_selection = st.slider('Select year duration',2000,2024 (2022, 2024))
+year_selection = st.slider('Select year duration',2000,2020 (2022, 2024))
 year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
 
 df_selection = df[df.CBU.isin(genres_selection) & df['year'].isin(year_selection_list)]
