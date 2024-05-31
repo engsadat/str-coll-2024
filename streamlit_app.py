@@ -24,6 +24,9 @@ df.month = df.month.astype('int')
 ## Genres selection
 CBU_list = df.CBU.unique()
 CBU_selection = st.multiselect('Select CBU', CBU_list, ['AS', 'JZBU', 'BA', 'NJ'])
+## Class selection
+Class_list = df.CUSTOMER_CLASS.unique()
+Class_selection = st.multiselect('Select Class', Class_list, ['RES', 'COM', 'TANKER', 'GOVT'])
 
 ## Year selection
 year_list = df.year.unique()
