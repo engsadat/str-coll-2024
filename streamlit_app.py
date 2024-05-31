@@ -18,17 +18,19 @@ st.subheader('Which Movie Genre performs ($) best at the box office?')
 # Load data
 df = pd.read_csv('data/StreamliteColl_3.csv')
 df.year = df.year.astype('int')
+df['month'] = pd.to_numeric(df['month'], errors='coerce')
 df.month = df.month.astype('int')
 
 # Input widgets
 ## Genres selection
 genres_list = df.CBU.unique()
-genres_selection = st.multiselect('Select genres', genres_list, ['AS', 'JZBU', 'BA', 'NJ'])
+genres_selection = st.multiselect('Select CBU', genres_list, ['AS', 'JZBU', 'BA', 'NJ'])
 
 ## Year selection
 year_list = df.year.unique()
 year_selection = st.slider('Select year duration',2000,2024, (2022, 2024))
 year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
+
 ## month selection
 month_list = df.month.unique()
 month_selection = st.slider('Select month duration',1,12, (9, 12))
