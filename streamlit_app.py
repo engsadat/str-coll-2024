@@ -28,8 +28,12 @@ genres_selection = st.multiselect('Select genres', genres_list, ['AS', 'JZBU', '
 year_list = df.year.unique()
 year_selection = st.slider('Select year duration',2000,2024, (2022, 2024))
 year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
+## month selection
+month_list = df.month.unique()
+month_selection = st.slider('Select month duration',1,12, (9, 12))
+month_selection_list = list(np.arange(month_selection[0], month_selection[1]+1))
 
-df_selection = df[df.CBU.isin(genres_selection) & df['year'].isin(year_selection_list)]
+df_selection = df[df.CBU.isin(genres_selection) & df['year'].isin(year_selection_list)&df['month'].isin(month_selection_list]
 df_selection['Amount'] = pd.to_numeric(df_selection['Amount'], errors='coerce')
 df_selection['year'] = df_selection['year'].astype(int)
 df_selection['Amount'] = df_selection['Amount'].astype(float)
