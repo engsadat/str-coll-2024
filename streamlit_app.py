@@ -52,8 +52,8 @@ df_chart = pd.melt(df_editor.reset_index(), id_vars='year', var_name='CBU', valu
 
 # Display chart
 chart = alt.Chart(df_chart).mark_line().encode(
-            x=alt.X('year:N', title='Year'),
+            x=alt.X('month:N', title='Year'),
             y=alt.Y('sum:Q', title='Collection($)'),
-            color='CBU:N'
+            color='BRANCH_NAME_En:N'
             ).properties(height=320)
 st.altair_chart(chart, use_container_width=True)
