@@ -54,7 +54,7 @@ df_chart = pd.melt(df_editor.reset_index(), id_vars='month', var_name='BRANCH_NA
 # Display chart
 chart = alt.Chart(df_chart).mark_line().encode(
             x=alt.X('month:N', title='Year'),
-            y=alt.Y('sum:Q', title='Collection($)'),
+            y=alt.Y('Amount:Q', title='Collection($)'),
             color='BRANCH_NAME_En:N'
             ).properties(height=320)
 st.altair_chart(chart, use_container_width=True)
