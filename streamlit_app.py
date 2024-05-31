@@ -39,14 +39,15 @@ df_selection = df[df.CBU.isin(CBU_selection) & df['year'].isin(year_selection_li
 df_selection['Amount'] = pd.to_numeric(df_selection['Amount'], errors='coerce')
 df_selection['year'] = df_selection['year'].astype(int)
 df_selection['Amount'] = df_selection['Amount'].astype(float)
-reshaped_df = df_selection.pivot_table(index='year', columns='CBU', values='Amount', aggfunc='sum', fill_value=0)
-reshaped_df = reshaped_df.sort_values(by='year', ascending=False)
+
+reshaped_df = df_selection.pivot_table(index='month', columns='BRANCH_NAME_En', values='Amount', aggfunc='sum', fill_value=0)
+reshaped_df = reshaped_df.sort_values(by='month', ascending=False)
 
 
 # Display DataFrame
 
 df_editor = st.data_editor(reshaped_df, height=212, use_container_width=True,
-                            column_config={"year": st.column_config.TextColumn("Year")},
+                            column_config={"month": st.column_config.TextColumn("Month")},
                             num_rows="dynamic")
 df_chart = pd.melt(df_editor.reset_index(), id_vars='month', var_name='BRANCH_NAME_En', value_name='Amount')
 
