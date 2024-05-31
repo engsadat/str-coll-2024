@@ -30,7 +30,7 @@ year_selection = st.slider('Select year duration',2000,2024, (2022, 2024))
 year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
 
 df_selection = df[df.CBU.isin(genres_selection) & df['year'].isin(year_selection_list)]
-reshaped_df = df_selection.pivot_table(index='year', columns='CBU', values=' sum ', aggfunc='sum', fill_value=0)
+reshaped_df = df_selection.pivot_table(index='year', columns='CBU', values='Amount', aggfunc='sum', fill_value=0)
 reshaped_df = reshaped_df.sort_values(by='year', ascending=False)
 
 
@@ -39,7 +39,7 @@ reshaped_df = reshaped_df.sort_values(by='year', ascending=False)
 df_editor = st.data_editor(reshaped_df, height=212, use_container_width=True,
                             column_config={"year": st.column_config.TextColumn("Year")},
                             num_rows="dynamic")
-df_chart = pd.melt(df_editor.reset_index(), id_vars='year', var_name='CBU', value_name='sum')
+df_chart = pd.melt(df_editor.reset_index(), id_vars='year', var_name='CBU', value_name='Amount')
 
 # Display chart
 chart = alt.Chart(df_chart).mark_line().encode(
