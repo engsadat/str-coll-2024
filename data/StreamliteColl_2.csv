@@ -1,0 +1,360 @@
+﻿indx,BRANCH_NAME,CUSTOMER_CLASS,year, Amount ,Accounts,BRANCH_NAME_En,CBU
+0,أبها الفرع الرئيسي,COM,2022," 6,096,244 ",2397,Abhaa Main Branch,AS
+1,أبها الفرع الرئيسي,GOVT,2022," 38,023,183 ",5414,Abhaa Main Branch,AS
+2,أبها الفرع الرئيسي,RES,2022," 33,735,750 ",186552,Abhaa Main Branch,AS
+3,أبها الفرع الرئيسي,TANKER,2022," 107,788,654 ",404,Abhaa Main Branch,AS
+4,أبو عريش,COM,2022," 349,629 ",715,Abu Arish,JZBU
+5,أبو عريش,GOVT,2022," 6,026,606 ",3122,Abu Arish,JZBU
+6,أبو عريش,RES,2022," 6,943,697 ",49304,Abu Arish,JZBU
+7,أبو عريش,TANKER,2022," 662,959 ",10,Abu Arish,JZBU
+8,أحد رفيدة,COM,2022," 389,748 ",748,Ahad Rafidah,AS
+9,أحد رفيدة,GOVT,2022," 870,771 ",915,Ahad Rafidah,AS
+10,أحد رفيدة,RES,2022," 5,601,100 ",35079,Ahad Rafidah,AS
+11,الباحة الفرع الرئيسي,COM,2022," 464,033 ",482,Bahaa Main Branch,BA
+12,الباحة الفرع الرئيسي,GOVT,2022," 6,022,993 ",4541,Bahaa Main Branch,BA
+13,الباحة الفرع الرئيسي,RES,2022," 6,296,772 ",65665,Bahaa Main Branch,BA
+14,الباحة الفرع الرئيسي,TANKER,2022," 3,677,370 ",84,Bahaa Main Branch,BA
+15,البرك,COM,2022," 65,031 ",143,Al Barak,AS
+16,البرك,GOVT,2022," 830,818 ",541,Al Barak,AS
+17,البرك,RES,2022," 498,019 ",4317,Al Barak,AS
+18,الحجره,COM,2022," 11,961 ",8,Al Hajra,BA
+19,الحجره,GOVT,2022," 197,982 ",303,Al Hajra,BA
+20,الحجره,RES,2022," 333,416 ",1853,Al Hajra,BA
+21,الدرب,COM,2022," 116,456 ",328,Ad Darb,JZBU
+22,الدرب,GOVT,2022," 4,904,523 ",3683,Ad Darb,JZBU
+23,الدرب,RES,2022," 5,793,616 ",48772,Ad Darb,JZBU
+24,الدرب,TANKER,2022," 4,061,857 ",20,Ad Darb,JZBU
+25,العارضة,COM,2022," 2,188 ",5,AL Aridhah,JZBU
+26,العارضة,GOVT,2022," 384,497 ",244,AL Aridhah,JZBU
+27,العارضة,RES,2022," 2,183,520 ",17607,AL Aridhah,JZBU
+28,العقيق,COM,2022," 35,019 ",29,Al Aqiq,BA
+29,العقيق,GOVT,2022," 1,766,445 ",2067,Al Aqiq,BA
+30,العقيق,RES,2022," 2,899,357 ",20231,Al Aqiq,BA
+31,العقيق,TANKER,2022," 151,200 ",12,Al Aqiq,BA
+32,العيدابي,COM,2022," 127,887 ",101,Al Edabi,JZBU
+33,العيدابي,GOVT,2022," 355,547 ",259,Al Edabi,JZBU
+34,العيدابي,RES,2022," 2,091,164 ",12111,Al Edabi,JZBU
+35,العيدابي,TANKER,2022," 1,558,787 ",21,Al Edabi,JZBU
+36,القرى,COM,2022," 153,312 ",299,Al Qara,BA
+37,القرى,GOVT,2022," 1,726,999 ",3474,Al Qara,BA
+38,القرى,RES,2022," 2,730,054 ",28130,Al Qara,BA
+39,القرى,TANKER,2022," 1,245,082 ",57,Al Qara,BA
+40,المجاردة,RES,2022," 109,045 ",12,Almajardah,AS
+41,المخواه وغامد الزناد,COM,2022," 58,327 ",202,Al Makhwah and Ghamid Al Zinad,BA
+42,المخواه وغامد الزناد,GOVT,2022," 2,706,959 ",2559,Al Makhwah and Ghamid Al Zinad,BA
+43,المخواه وغامد الزناد,RES,2022," 3,042,191 ",17548,Al Makhwah and Ghamid Al Zinad,BA
+44,المخواه وغامد الزناد,TANKER,2022," 681,943 ",12,Al Makhwah and Ghamid Al Zinad,BA
+45,المندق و بني حسن,COM,2022," 160,390 ",200,Al Mandaq and Bani Hassan,BA
+46,المندق و بني حسن,GOVT,2022," 1,467,641 ",2631,Al Mandaq and Bani Hassan,BA
+47,المندق و بني حسن,RES,2022," 3,390,621 ",41476,Al Mandaq and Bani Hassan,BA
+48,المندق و بني حسن,TANKER,2022," 1,329,713 ",59,Al Mandaq and Bani Hassan,BA
+49,النماص,RES,2022," 610,949 ",34,Alnamas,AS
+50,بدر الجنوب,GOVT,2022, 705 ,13,Badr Al Janub,NJ
+51,بدر الجنوب,RES,2022," 88,618 ",1684,Badr Al Janub,NJ
+52,بلجرشي,COM,2022," 702,491 ",1079,Baljorashi,BA
+53,بلجرشي,GOVT,2022," 3,595,469 ",3669,Baljorashi,BA
+54,بلجرشي,RES,2022," 7,932,156 ",75158,Baljorashi,BA
+55,بلجرشي,TANKER,2022," 741,950 ",24,Baljorashi,BA
+56,بيش,COM,2022," 47,267 ",25,Baish,JZBU
+57,بيش,GOVT,2022," 6,839,815 ",5486,Baish,JZBU
+58,بيش,RES,2022," 2,917,838 ",17281,Baish,JZBU
+59,بيش,TANKER,2022," 413,580 ",10,Baish,JZBU
+60,بيشة,COM,2022," 309,811 ",148,Bishah,AS
+61,بيشة,GOVT,2022," 2,128,415 ",714,Bishah,AS
+62,بيشة,RES,2022," 4,023,762 ",33263,Bishah,AS
+63,بيشة,TANKER,2022," 306,499 ",2,Bishah,AS
+64,تثليث,RES,2022," 10,925 ",1,TATHLEETH,AS
+65,تنومة,RES,2022," 81,478 ",10,TANOOMAH,AS
+66,ثار,GOVT,2022," 7,325 ",56,Thar,NJ
+67,ثار,RES,2022," 106,501 ",1006,Thar,NJ
+68,ثار,TANKER,2022," 58,601 ",1,Thar,NJ
+69,جازان - الرئيسي,COM,2022," 5,039,440 ",1506,Jazan - Main,JZBU
+70,جازان - الرئيسي,GOVT,2022," 15,159,728 ",4828,Jazan - Main,JZBU
+71,جازان - الرئيسي,RES,2022," 20,332,788 ",80846,Jazan - Main,JZBU
+72,جازان - الرئيسي,TANKER,2022," 2,031,792 ",16,Jazan - Main,JZBU
+73,حبونا,COM,2022," 18,393 ",44,Hubuna,NJ
+74,حبونا,GOVT,2022," 162,224 ",371,Hubuna,NJ
+75,حبونا,RES,2022," 1,146,323 ",13809,Hubuna,NJ
+76,حبونا,TANKER,2022," 331,021 ",2,Hubuna,NJ
+77,خباش,COM,2022," 1,403 ",39,Khubash,NJ
+78,خباش,RES,2022," 144,795 ",3007,Khubash,NJ
+79,خميس مشيط,COM,2022," 7,977,608 ",1743,Khamis Mushait,AS
+80,خميس مشيط,GOVT,2022," 168,086,517 ",6096,Khamis Mushait,AS
+81,خميس مشيط,RES,2022," 29,537,936 ",199997,Khamis Mushait,AS
+82,شروره,COM,2022," 131,270 ",357,Sharurah,NJ
+83,شروره,GOVT,2022," 409,563 ",1013,Sharurah,NJ
+84,شروره,RES,2022," 4,632,543 ",28136,Sharurah,NJ
+85,شروره,TANKER,2022," 873,152 ",11,Sharurah,NJ
+86,صامطة واحد المسارحة,COM,2022," 115,544 ",151,Samtah Ahad Al Masarihah,JZBU
+87,صامطة واحد المسارحة,GOVT,2022," 9,666,912 ",3407,Samtah Ahad Al Masarihah,JZBU
+88,صامطة واحد المسارحة,RES,2022," 11,230,220 ",70006,Samtah Ahad Al Masarihah,JZBU
+89,صامطة واحد المسارحة,TANKER,2022," 266,183 ",10,Samtah Ahad Al Masarihah,JZBU
+90,صبيا,COM,2022," 63,625 ",39,Sabya,JZBU
+91,صبيا,GOVT,2022," 4,214,106 ",2209,Sabya,JZBU
+92,صبيا,RES,2022," 6,179,027 ",21032,Sabya,JZBU
+93,صبيا,TANKER,2022," 209,014 ",10,Sabya,JZBU
+94,ضمد,COM,2022," 29,191 ",57,Damad,JZBU
+95,ضمد,GOVT,2022," 2,097,197 ",872,Damad,JZBU
+96,ضمد,RES,2022," 2,608,014 ",25353,Damad,JZBU
+97,ظهران الجنوب,RES,2022," 11,109 ",3,DHAHRAN ALJANOUB,AS
+98,فرسان,COM,2022," 327,977 ",241,Farasan,JZBU
+99,فرسان,GOVT,2022," 3,727,782 ",1706,Farasan,JZBU
+100,فرسان,RES,2022," 1,285,586 ",12421,Farasan,JZBU
+101,فرسان,TANKER,2022," 319,687 ",10,Farasan,JZBU
+102,قلوه,COM,2022," 28,758 ",34,Qilwah,BA
+103,قلوه,GOVT,2022," 768,723 ",1617,Qilwah,BA
+104,قلوه,RES,2022," 960,034 ",9306,Qilwah,BA
+105,محايل,COM,2022," 128,478 ",4,Mahayel,AS
+106,محايل,GOVT,2022," 3,205 ",1,Mahayel,AS
+107,محايل,RES,2022," 679,436 ",88,Mahayel,AS
+108,محايل,TANKER,2022," 1,423,362 ",10,Mahayel,AS
+109,مدينة سلطان,COM,2022," 48,327 ",1,Madinat Sultan,AS
+110,مدينة سلطان,RES,2022," 26,389 ",56,Madinat Sultan,AS
+111,نجران الفرع الرئيسي,COM,2022," 549,467 ",2457,Najran Main Branch,NJ
+112,نجران الفرع الرئيسي,GOVT,2022," 18,979,558 ",3156,Najran Main Branch,NJ
+113,نجران الفرع الرئيسي,RES,2022," 17,057,527 ",188605,Najran Main Branch,NJ
+114,نجران الفرع الرئيسي,TANKER,2022," 1,950,142 ",2,Najran Main Branch,NJ
+115,يدمه,GOVT,2022," 2,440 ",12,Yadamah,NJ
+116,يدمه,RES,2022," 7,803 ",189,Yadamah,NJ
+117,يدمه,TANKER,2022," 115,399 ",2,Yadamah,NJ
+0,أبها الفرع الرئيسي,COM,2023," 7,166,141 ",2672,Abhaa Main Branch,AS
+1,أبها الفرع الرئيسي,GOVT,2023," 18,766,483 ",2840,Abhaa Main Branch,AS
+2,أبها الفرع الرئيسي,RES,2023," 38,078,853 ",220798,Abhaa Main Branch,AS
+3,أبها الفرع الرئيسي,TANKER,2023," 129,896,187 ",517,Abhaa Main Branch,AS
+4,أبو عريش,COM,2023," 305,438 ",792,Abu Arish,JZBU
+5,أبو عريش,GOVT,2023," 4,601,618 ",1393,Abu Arish,JZBU
+6,أبو عريش,RES,2023," 7,047,193 ",59849,Abu Arish,JZBU
+7,أبو عريش,TANKER,2023," 477,332 ",11,Abu Arish,JZBU
+8,أحد رفيدة,COM,2023," 658,379 ",831,Ahad Rafidah,AS
+9,أحد رفيدة,GOVT,2023," 998,110 ",476,Ahad Rafidah,AS
+10,أحد رفيدة,RES,2023," 6,224,764 ",42391,Ahad Rafidah,AS
+11,الباحة الفرع الرئيسي,COM,2023," 425,331 ",636,Bahaa Main Branch,BA
+12,الباحة الفرع الرئيسي,GOVT,2023," 2,001,326 ",3414,Bahaa Main Branch,BA
+13,الباحة الفرع الرئيسي,RES,2023," 6,099,071 ",80186,Bahaa Main Branch,BA
+14,الباحة الفرع الرئيسي,TANKER,2023," 2,886,144 ",83,Bahaa Main Branch,BA
+15,البرك,COM,2023," 47,297 ",129,Al Barak,AS
+16,البرك,GOVT,2023," 324,179 ",360,Al Barak,AS
+17,البرك,RES,2023," 448,419 ",4654,Al Barak,AS
+18,الحجره,COM,2023," 9,258 ",12,Al Hajra,BA
+19,الحجره,GOVT,2023," 141,642 ",252,Al Hajra,BA
+20,الحجره,RES,2023," 339,286 ",2184,Al Hajra,BA
+21,الدرب,COM,2023," 93,408 ",320,Ad Darb,JZBU
+22,الدرب,GOVT,2023," 1,116,513 ",1414,Ad Darb,JZBU
+23,الدرب,RES,2023," 5,516,035 ",58970,Ad Darb,JZBU
+24,الدرب,TANKER,2023," 3,254,799 ",23,Ad Darb,JZBU
+25,العارضة,COM,2023, 497 ,6,AL Aridhah,JZBU
+26,العارضة,GOVT,2023," 147,483 ",157,AL Aridhah,JZBU
+27,العارضة,RES,2023," 1,835,902 ",22698,AL Aridhah,JZBU
+28,العقيق,COM,2023," 109,577 ",51,Al Aqiq,BA
+29,العقيق,GOVT,2023," 1,244,469 ",1288,Al Aqiq,BA
+30,العقيق,RES,2023," 3,571,582 ",25824,Al Aqiq,BA
+31,العقيق,TANKER,2023," 65,743 ",10,Al Aqiq,BA
+32,العيدابي,COM,2023," 85,679 ",130,Al Edabi,JZBU
+33,العيدابي,GOVT,2023," 460,732 ",316,Al Edabi,JZBU
+34,العيدابي,RES,2023," 2,247,963 ",17924,Al Edabi,JZBU
+35,العيدابي,TANKER,2023," 1,700,896 ",26,Al Edabi,JZBU
+36,القرى,COM,2023," 118,183 ",429,Al Qara,BA
+37,القرى,GOVT,2023," 432,675 ",1917,Al Qara,BA
+38,القرى,RES,2023," 2,351,242 ",35518,Al Qara,BA
+39,القرى,TANKER,2023," 567,387 ",63,Al Qara,BA
+40,المجاردة,RES,2023," 785,417 ",820,Almajardah,AS
+41,المخواه وغامد الزناد,COM,2023," 130,575 ",242,Al Makhwah and Ghamid Al Zinad,BA
+42,المخواه وغامد الزناد,GOVT,2023," 1,130,701 ",1675,Al Makhwah and Ghamid Al Zinad,BA
+43,المخواه وغامد الزناد,RES,2023," 2,601,445 ",23287,Al Makhwah and Ghamid Al Zinad,BA
+44,المخواه وغامد الزناد,TANKER,2023," 430,325 ",12,Al Makhwah and Ghamid Al Zinad,BA
+46,المندق و بني حسن,COM,2023," 89,147 ",194,Al Mandaq and Bani Hassan,BA
+47,المندق و بني حسن,GOVT,2023," 614,692 ",2420,Al Mandaq and Bani Hassan,BA
+48,المندق و بني حسن,RES,2023," 2,933,267 ",50503,Al Mandaq and Bani Hassan,BA
+49,المندق و بني حسن,TANKER,2023," 844,523 ",49,Al Mandaq and Bani Hassan,BA
+50,النماص,COM,2023," 141,356 ",10,Alnamas,AS
+51,النماص,RES,2023," 165,259 ",69,Alnamas,AS
+52,الواديين,RES,2023," 31,145 ",4,Alwadieen,AS
+53,بدر الجنوب,GOVT,2023," 10,284 ",93,Badr Al Janub,NJ
+54,بدر الجنوب,RES,2023," 96,355 ",2184,Badr Al Janub,NJ
+55,بلجرشي,COM,2023," 754,543 ",1304,Baljorashi,BA
+56,بلجرشي,GOVT,2023," 1,507,391 ",2484,Baljorashi,BA
+57,بلجرشي,RES,2023," 6,125,074 ",88040,Baljorashi,BA
+58,بلجرشي,TANKER,2023," 612,768 ",24,Baljorashi,BA
+59,بيش,COM,2023," 83,454 ",43,Baish,JZBU
+60,بيش,GOVT,2023," 2,465,681 ",1543,Baish,JZBU
+61,بيش,RES,2023," 3,121,773 ",23731,Baish,JZBU
+62,بيش,TANKER,2023," 438,396 ",11,Baish,JZBU
+63,بيشة,COM,2023," 409,222 ",242,Bishah,AS
+64,بيشة,GOVT,2023," 12,234,291 ",716,Bishah,AS
+65,بيشة,RES,2023," 4,656,515 ",39022,Bishah,AS
+66,بيشة,TANKER,2023," 576,811 ",9,Bishah,AS
+67,تنومة,RES,2023," 37,442 ",20,TANOOMAH,AS
+68,ثار,GOVT,2023," 39,138 ",129,Thar,NJ
+69,ثار,RES,2023," 183,790 ",1344,Thar,NJ
+70,ثار,TANKER,2023," 354,290 ",4,Thar,NJ
+71,جازان - الرئيسي,COM,2023," 6,622,605 ",1815,Jazan - Main,JZBU
+72,جازان - الرئيسي,GOVT,2023," 9,218,598 ",2403,Jazan - Main,JZBU
+73,جازان - الرئيسي,RES,2023," 21,273,368 ",103098,Jazan - Main,JZBU
+74,جازان - الرئيسي,TANKER,2023," 2,494,823 ",23,Jazan - Main,JZBU
+75,حبونا,COM,2023," 5,008 ",45,Hubuna,NJ
+76,حبونا,GOVT,2023," 95,977 ",358,Hubuna,NJ
+77,حبونا,RES,2023," 1,406,778 ",16119,Hubuna,NJ
+78,حبونا,TANKER,2023," 597,991 ",2,Hubuna,NJ
+79,خباش,COM,2023," 1,071 ",44,Khubash,NJ
+80,خباش,GOVT,2023," 15,962 ",51,Khubash,NJ
+81,خباش,RES,2023," 115,969 ",3311,Khubash,NJ
+82,خميس مشيط,COM,2023," 7,831,734 ",1858,Khamis Mushait,AS
+83,خميس مشيط,GOVT,2023," 40,080,005 ",2177,Khamis Mushait,AS
+84,خميس مشيط,RES,2023," 34,972,555 ",226569,Khamis Mushait,AS
+85,رجال المع,RES,2023," 12,360 ",2,REJAL ALMA,AS
+86,شروره,COM,2023," 83,620 ",398,Sharurah,NJ
+87,شروره,GOVT,2023," 201,060 ",1192,Sharurah,NJ
+88,شروره,RES,2023," 4,432,497 ",32496,Sharurah,NJ
+89,شروره,TANKER,2023," 1,228,846 ",22,Sharurah,NJ
+90,صامطة واحد المسارحة,COM,2023," 210,696 ",215,Samtah Ahad Al Masarihah,JZBU
+91,صامطة واحد المسارحة,GOVT,2023," 3,765,749 ",1090,Samtah Ahad Al Masarihah,JZBU
+92,صامطة واحد المسارحة,RES,2023," 11,287,879 ",87982,Samtah Ahad Al Masarihah,JZBU
+93,صامطة واحد المسارحة,TANKER,2023," 264,383 ",11,Samtah Ahad Al Masarihah,JZBU
+94,صبيا,COM,2023," 349,641 ",115,Sabya,JZBU
+95,صبيا,GOVT,2023," 2,059,015 ",897,Sabya,JZBU
+96,صبيا,RES,2023," 6,351,841 ",29805,Sabya,JZBU
+97,صبيا,TANKER,2023," 643,923 ",12,Sabya,JZBU
+98,ضمد,COM,2023," 40,020 ",78,Damad,JZBU
+99,ضمد,GOVT,2023," 800,609 ",633,Damad,JZBU
+100,ضمد,RES,2023," 2,794,111 ",32223,Damad,JZBU
+101,ظهران الجنوب,RES,2023," 24,725 ",1,DHAHRAN ALJANOUB,AS
+102,فرسان,COM,2023," 512,930 ",286,Farasan,JZBU
+103,فرسان,GOVT,2023," 1,334,913 ",761,Farasan,JZBU
+104,فرسان,RES,2023," 1,309,849 ",15926,Farasan,JZBU
+105,فرسان,TANKER,2023," 590,209 ",12,Farasan,JZBU
+106,قلوه,COM,2023," 51,586 ",58,Qilwah,BA
+107,قلوه,GOVT,2023," 284,057 ",1305,Qilwah,BA
+108,قلوه,RES,2023," 986,481 ",11715,Qilwah,BA
+109,محايل,COM,2023," 18,085 ",17,Mahayel,AS
+110,محايل,GOVT,2023," 16,490 ",7,Mahayel,AS
+111,محايل,RES,2023," 389,560 ",281,Mahayel,AS
+112,محايل,TANKER,2023," 414,259 ",10,Mahayel,AS
+113,مدينة سلطان,RES,2023," 612,167 ",335,Madinat Sultan,AS
+114,نجران الفرع الرئيسي,COM,2023," 682,011 ",2910,Najran Main Branch,NJ
+115,نجران الفرع الرئيسي,GOVT,2023," 9,662,379 ",4294,Najran Main Branch,NJ
+116,نجران الفرع الرئيسي,RES,2023," 15,447,229 ",218748,Najran Main Branch,NJ
+117,نجران الفرع الرئيسي,TANKER,2023," 677,738 ",5,Najran Main Branch,NJ
+118,يدمه,GOVT,2023, 398 ,31,Yadamah,NJ
+119,يدمه,RES,2023," 17,921 ",227,Yadamah,NJ
+120,يدمه,TANKER,2023," 596,560 ",9,Yadamah,NJ
+0,أبها الفرع الرئيسي,COM,2024," 3,531,685 ",1184,Abhaa Main Branch,AS
+1,أبها الفرع الرئيسي,GOVT,2024," 9,351,509 ",657,Abhaa Main Branch,AS
+2,أبها الفرع الرئيسي,RES,2024," 14,977,785 ",95053,Abhaa Main Branch,AS
+3,أبها الفرع الرئيسي,TANKER,2024," 57,595,790 ",314,Abhaa Main Branch,AS
+4,أبو عريش,COM,2024," 100,291 ",334,Abu Arish,JZBU
+5,أبو عريش,GOVT,2024," 414,951 ",133,Abu Arish,JZBU
+6,أبو عريش,RES,2024," 2,496,898 ",24728,Abu Arish,JZBU
+7,أبو عريش,TANKER,2024," 166,141 ",5,Abu Arish,JZBU
+8,أحد رفيدة,COM,2024," 217,569 ",334,Ahad Rafidah,AS
+9,أحد رفيدة,GOVT,2024," 419,814 ",128,Ahad Rafidah,AS
+10,أحد رفيدة,RES,2024," 2,503,508 ",18050,Ahad Rafidah,AS
+11,الباحة الفرع الرئيسي,COM,2024," 309,908 ",264,Bahaa Main Branch,BA
+12,الباحة الفرع الرئيسي,GOVT,2024," 8,279,305 ",394,Bahaa Main Branch,BA
+13,الباحة الفرع الرئيسي,RES,2024," 2,144,108 ",33752,Bahaa Main Branch,BA
+14,الباحة الفرع الرئيسي,TANKER,2024," 1,020,061 ",35,Bahaa Main Branch,BA
+15,البرك,COM,2024," 55,836 ",53,Al Barak,AS
+16,البرك,GOVT,2024," 24,662 ",29,Al Barak,AS
+17,البرك,RES,2024," 195,840 ",1895,Al Barak,AS
+18,الحجره,COM,2024," 2,458 ",8,Al Hajra,BA
+19,الحجره,GOVT,2024," 45,439 ",49,Al Hajra,BA
+20,الحجره,RES,2024," 117,244 ",944,Al Hajra,BA
+21,الدرب,COM,2024," 28,440 ",130,Ad Darb,JZBU
+22,الدرب,GOVT,2024," 55,110 ",90,Ad Darb,JZBU
+23,الدرب,RES,2024," 2,075,655 ",24640,Ad Darb,JZBU
+24,الدرب,TANKER,2024," 923,307 ",10,Ad Darb,JZBU
+25,العارضة,COM,2024, 62 ,2,AL Aridhah,JZBU
+26,العارضة,GOVT,2024," 132,436 ",55,AL Aridhah,JZBU
+27,العارضة,RES,2024," 768,612 ",9349,AL Aridhah,JZBU
+28,العقيق,COM,2024," 25,981 ",21,Al Aqiq,BA
+29,العقيق,GOVT,2024," 470,228 ",122,Al Aqiq,BA
+30,العقيق,RES,2024," 1,319,190 ",11582,Al Aqiq,BA
+31,العقيق,TANKER,2024," 16,344 ",5,Al Aqiq,BA
+32,العيدابي,COM,2024," 36,600 ",45,Al Edabi,JZBU
+33,العيدابي,GOVT,2024," 146,817 ",86,Al Edabi,JZBU
+34,العيدابي,RES,2024," 930,238 ",7694,Al Edabi,JZBU
+35,العيدابي,TANKER,2024," 534,916 ",10,Al Edabi,JZBU
+36,القرى,COM,2024," 27,862 ",169,Al Qara,BA
+37,القرى,GOVT,2024," 48,009 ",111,Al Qara,BA
+38,القرى,RES,2024," 678,529 ",15052,Al Qara,BA
+39,القرى,TANKER,2024," 209,174 ",26,Al Qara,BA
+40,المجاردة,RES,2024," 226,652 ",975,Almajardah,AS
+41,المخواه وغامد الزناد,COM,2024," 147,983 ",94,Al Makhwah and Ghamid Al Zinad,BA
+42,المخواه وغامد الزناد,GOVT,2024," 178,884 ",223,Al Makhwah and Ghamid Al Zinad,BA
+43,المخواه وغامد الزناد,RES,2024," 871,806 ",9603,Al Makhwah and Ghamid Al Zinad,BA
+44,المخواه وغامد الزناد,TANKER,2024," 137,731 ",5,Al Makhwah and Ghamid Al Zinad,BA
+46,المندق و بني حسن,COM,2024," 20,595 ",90,Al Mandaq and Bani Hassan,BA
+47,المندق و بني حسن,GOVT,2024," 58,253 ",151,Al Mandaq and Bani Hassan,BA
+48,المندق و بني حسن,RES,2024," 868,585 ",21514,Al Mandaq and Bani Hassan,BA
+49,المندق و بني حسن,TANKER,2024," 202,591 ",20,Al Mandaq and Bani Hassan,BA
+50,النماص,COM,2024," 70,555 ",7,Alnamas,AS
+51,النماص,RES,2024," 162,955 ",139,Alnamas,AS
+52,الواديين,RES,2024, 182 ,4,Alwadieen,AS
+53,بدر الجنوب,RES,2024," 49,202 ",972,Badr Al Janub,NJ
+54,بلجرشي,COM,2024," 244,267 ",516,Baljorashi,BA
+55,بلجرشي,GOVT,2024," 531,833 ",306,Baljorashi,BA
+56,بلجرشي,RES,2024," 1,555,203 ",35691,Baljorashi,BA
+57,بلجرشي,TANKER,2024," 256,450 ",10,Baljorashi,BA
+58,بيش,COM,2024," 35,046 ",22,Baish,JZBU
+59,بيش,GOVT,2024," 333,790 ",135,Baish,JZBU
+60,بيش,RES,2024," 1,176,200 ",9939,Baish,JZBU
+61,بيش,TANKER,2024," 134,237 ",5,Baish,JZBU
+62,بيشة,COM,2024," 39,435 ",102,Bishah,AS
+63,بيشة,GOVT,2024," 424,592 ",111,Bishah,AS
+64,بيشة,RES,2024," 1,958,882 ",16100,Bishah,AS
+65,بيشة,TANKER,2024," 120,929 ",5,Bishah,AS
+66,تثليث,RES,2024," 81,447 ",7,TATHLEETH,AS
+67,تنومة,RES,2024," 36,871 ",53,TANOOMAH,AS
+68,ثار,GOVT,2024," 7,125 ",21,Thar,NJ
+69,ثار,RES,2024," 88,689 ",590,Thar,NJ
+70,ثار,TANKER,2024," 34,593 ",3,Thar,NJ
+71,جازان - الرئيسي,COM,2024," 2,499,861 ",774,Jazan - Main,JZBU
+72,جازان - الرئيسي,GOVT,2024," 5,010,071 ",702,Jazan - Main,JZBU
+73,جازان - الرئيسي,RES,2024," 11,054,117 ",44190,Jazan - Main,JZBU
+74,جازان - الرئيسي,TANKER,2024," 853,418 ",10,Jazan - Main,JZBU
+75,حبونا,COM,2024," 7,038 ",15,Hubuna,NJ
+76,حبونا,GOVT,2024," 7,799 ",11,Hubuna,NJ
+77,حبونا,RES,2024," 700,143 ",6912,Hubuna,NJ
+78,حبونا,TANKER,2024," 54,168 ",2,Hubuna,NJ
+79,خباش,COM,2024, 928 ,17,Khubash,NJ
+80,خباش,GOVT,2024," 1,515,246 ",50,Khubash,NJ
+81,خباش,RES,2024," 95,804 ",1338,Khubash,NJ
+82,خميس مشيط,COM,2024," 3,335,119 ",827,Khamis Mushait,AS
+83,خميس مشيط,GOVT,2024," 14,404,443 ",309,Khamis Mushait,AS
+84,خميس مشيط,RES,2024," 14,435,036 ",94962,Khamis Mushait,AS
+85,خميس مشيط,TANKER,2024," 1,018,653 ",3,Khamis Mushait,AS
+86,رجال المع,RES,2024," 26,414 ",7,REJAL ALMA,AS
+87,شروره,COM,2024," 18,448 ",155,Sharurah,NJ
+88,شروره,GOVT,2024," 108,293 ",689,Sharurah,NJ
+89,شروره,RES,2024," 2,313,590 ",13199,Sharurah,NJ
+90,شروره,TANKER,2024," 429,118 ",16,Sharurah,NJ
+91,صامطة واحد المسارحة,COM,2024," 100,290 ",93,Samtah Ahad Al Masarihah,JZBU
+92,صامطة واحد المسارحة,GOVT,2024," 675,812 ",286,Samtah Ahad Al Masarihah,JZBU
+93,صامطة واحد المسارحة,RES,2024," 4,262,131 ",37326,Samtah Ahad Al Masarihah,JZBU
+94,صامطة واحد المسارحة,TANKER,2024," 142,739 ",5,Samtah Ahad Al Masarihah,JZBU
+95,صبيا,COM,2024," 128,492 ",66,Sabya,JZBU
+96,صبيا,GOVT,2024," 71,488 ",60,Sabya,JZBU
+97,صبيا,RES,2024," 2,174,148 ",13028,Sabya,JZBU
+98,صبيا,TANKER,2024," 140,197 ",5,Sabya,JZBU
+99,ضمد,COM,2024," 9,786 ",29,Damad,JZBU
+100,ضمد,GOVT,2024," 55,456 ",68,Damad,JZBU
+101,ضمد,RES,2024," 1,045,492 ",13065,Damad,JZBU
+102,ظهران الجنوب,COM,2024," 34,500 ",1,DHAHRAN ALJANOUB,AS
+103,ظهران الجنوب,RES,2024," 91,001 ",10,DHAHRAN ALJANOUB,AS
+104,فرسان,COM,2024," 147,660 ",121,Farasan,JZBU
+105,فرسان,GOVT,2024," 547,151 ",120,Farasan,JZBU
+106,فرسان,RES,2024," 461,456 ",6408,Farasan,JZBU
+107,فرسان,TANKER,2024," 169,820 ",5,Farasan,JZBU
+108,قلوه,COM,2024," 16,273 ",41,Qilwah,BA
+109,قلوه,GOVT,2024," 70,546 ",214,Qilwah,BA
+110,قلوه,RES,2024," 345,206 ",4999,Qilwah,BA
+111,محايل,COM,2024," 36,852 ",15,Mahayel,AS
+112,محايل,GOVT,2024, 696 ,2,Mahayel,AS
+113,محايل,RES,2024," 251,926 ",418,Mahayel,AS
+114,محايل,TANKER,2024," 91,380 ",5,Mahayel,AS
+115,مدينة سلطان,RES,2024," 281,870 ",295,Madinat Sultan,AS
+116,نجران الفرع الرئيسي,COM,2024," 388,350 ",1330,Najran Main Branch,NJ
+117,نجران الفرع الرئيسي,GOVT,2024," 2,748,430 ",598,Najran Main Branch,NJ
+118,نجران الفرع الرئيسي,RES,2024," 7,942,164 ",87737,Najran Main Branch,NJ
+119,نجران الفرع الرئيسي,TANKER,2024," 1,646,544 ",7,Najran Main Branch,NJ
+120,يدمه,RES,2024," 12,332 ",141,Yadamah,NJ
+121,يدمه,TANKER,2024," 85,479 ",5,Yadamah,NJ
