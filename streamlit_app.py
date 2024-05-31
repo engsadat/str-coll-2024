@@ -48,7 +48,7 @@ reshaped_df = reshaped_df.sort_values(by='year', ascending=False)
 df_editor = st.data_editor(reshaped_df, height=212, use_container_width=True,
                             column_config={"year": st.column_config.TextColumn("Year")},
                             num_rows="dynamic")
-df_chart = pd.melt(df_editor.reset_index(), id_vars='year', var_name='CBU', value_name='Amount')
+df_chart = pd.melt(df_editor.reset_index(), id_vars='month', var_name='BRANCH_NAME_En', value_name='Amount')
 
 # Display chart
 chart = alt.Chart(df_chart).mark_line().encode(
