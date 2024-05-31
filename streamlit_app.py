@@ -16,7 +16,7 @@ with st.expander('About this app'):
 st.subheader('Which Movie Genre performs ($) best at the box office?')
 
 # Load data
-df = pd.read_excel('data/StreamliteColl.xlsx')
+df = pd.read_excel('data/StreamliteColl24.csv')
 df.year = df.year.astype('int')
 
 # Input widgets
